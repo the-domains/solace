@@ -1,0 +1,14 @@
+layout_spectrum: 0.9801368548069149
+typography_spectrum: 0.9314496701117605
+color:
+  brandStrength: 0.17360784695483744
+  lightness: 0.250618614256382
+  saturation: 0.5524013668764383
+  rhythmicContrast: 0.8171706516295671
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Solace
